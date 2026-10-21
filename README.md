@@ -1,2 +1,1 @@
-# Git LabProject (Feature Branch Version)
-This project is a Git practice lab.
+# Git Lab Project (Feature Branch Version)
